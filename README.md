@@ -1,12 +1,12 @@
 Hi 👋 My name is Janek
 ======================
 
-Learning Front-End Developer
+Junior Front-End Developer
 ----------------------------
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [jankukielski1@gmail.com](mailto:jankukielski1@gmail.com)
-* 🧠  I'm learning All Front-End elements necessary to become a developer!
+* 🧠  Currently sharpening all my front-end skills to land my first job in front-end development
 
 ### Skills
 
